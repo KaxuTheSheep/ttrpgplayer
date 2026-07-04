@@ -237,7 +237,9 @@ The accessible entry to polearms. Versatile enough for one or two hands, reliabl
 **Damage Type:** Piercing
 **Speed (Base):** 9 + (Might or Grace)
 **Range:** +1.50m
-**Handedness:** Versatile **Weight Class:** Standard **Traits:** Reach, Reliable
+**Handedness:** Versatile
+**Weight Class:** Standard
+**Traits:** Reach, Reliable
 
 ### Pike
 A weapon built entirely around denying approach. Longer than anything else on the field — devastating at range, defenceless up close. 
