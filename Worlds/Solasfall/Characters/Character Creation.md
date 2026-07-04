@@ -1,4 +1,4 @@
-ops## Overview
+## Overview
 Character creation in Solasfall uses a single unified currency — **Trait Points** — from level 0 through the entire game. The same points spent at creation are the same points spent advancing your character. There are no separate creation pools or advancement pools. Every choice is deliberate, every investment permanent.
 
 At level 0 you receive **25 Trait Points**. At each level up you receive **15 Trait Points**. Unspent points carry forward indefinitely — there is no penalty for banking them across levels, and some investments are expensive enough to reward planning ahead.
