@@ -256,7 +256,7 @@ A hooked polearm that rewards patience and control. Where other polearms strike,
 **Speed (Base):** 8 + Might 
 **Range:** +1.40m 
 **Handedness:** Two-Handed 
-**Weight Class:** Standard **Traits:** Reach, Hooking, Guarded(+2), Weapon Bind #wip
+**Weight Class:** Standard **Traits:** Reach, Hooking, Guarded(+2), Weapon Bind
 
 ### Halberd
 A heavy hybrid that combines axe, hook, and reach into a single punishing weapon. Offensively dominant, defensively minimal. 
