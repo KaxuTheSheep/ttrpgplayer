@@ -38,16 +38,14 @@ Additional training may come from your race.
 
 **Racial Tree Nodes** The only tree available at level 0. Racial nodes represent biological development and cultural mastery. Some nodes are gated behind level requirements and cannot be purchased at creation regardless of point availability.
 
-**Weapon Mastery** Points may be spent toward weapon mastery at creation, representing prior training before play begins.
-
 **Sturdiness Increases** All characters begin with a default Sturdiness of 6. Additional Sturdiness may be purchased using the universal cost table, subject to Vitality requirements.
 
 **Essence Capacity** Characters begin with capacity for 1 Essence. Additional capacity may be purchased at creation.
 
-> **Hard Lock Reminder:** Trait points cannot be spent on Disciplines tree nodes. Class trees unlock at level 1 regardless of prerequisites.
+> **Hard Lock Reminder:** Trait points cannot be spent on Disciplines tree nodes. Disciplines trees unlock at level 1 regardless of prerequisites.
 
 ## Step 3 — Starting Ability
-Every character receives one Starting Ability reflecting personal history, prior experience, or innate talent. This is your level 0 identity before Disciplines investment shapes who you become.
+Every character receives one Starting Ability reflecting personal history, prior experience, or innate talent. This is your level 0 identity before Disciplines investments shapes who you become.
 
 ### Silver Tongue
 Once per Rest, reroll a failed Negotiation Test.
