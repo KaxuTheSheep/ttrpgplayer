@@ -31,7 +31,7 @@ Your parasite-enhanced physiology grants you a heightened sense of smell. You ca
 ### Predator's Bite
 As an attack, you may bite a target within melee range, dealing 1d4 + Might Piercing damage at Speed 12 + Grace.
 # Racial Web
-
+![[velkhari.png]]
 ## Spider Climb
 Prerequisites: None.
 Cost: 2 Trait Points. 

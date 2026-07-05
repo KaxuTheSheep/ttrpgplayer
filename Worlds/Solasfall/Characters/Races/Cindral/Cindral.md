@@ -37,6 +37,7 @@ When you make a melee or ranged attack, you may choose to channel your body heat
 Gain +1 training in one of the following skills of your choice at character creation: Athletics, Crafting, or Endurance.
 
 # Racial Web
+![[Cindral.png]]
 ## Channelled Emberstrike
 Prerequisites: None.
 Cost: 2 Trait Points. 
