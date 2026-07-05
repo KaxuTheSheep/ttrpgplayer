@@ -5,7 +5,7 @@ tags:
 Sanity represents your character's mental steadiness — the ability to remain focused, grounded, and emotionally composed under stress. Where [[Blood]] measures the body's life force, Sanity measures the mind's resilience. As Sanity is depleted, the mind begins to fray, and stress reactions, panic responses, or deeper psychological disturbances may surface.
 
 ## Calculation
-**Sanity = 6+ Resolve + Origin Bonus + Level Bonus + Other Modifiers**
+**Sanity = 10 + 2 x Resolve + Level Bonus + Other Modifiers**
 - **Resolve:** Core mental strength and determination.
 - **Level Bonus:** Each level up grants +1 to your maximum Sanity, reflecting the hardened mind of a veteran.
 - **Other Modifiers:** Can arise from training, abilities, or rare mental conditioning.
