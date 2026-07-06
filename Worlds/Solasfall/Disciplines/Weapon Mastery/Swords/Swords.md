@@ -4,7 +4,7 @@ tags:
   - Discipline
 ---
 # Swords
-
+![[Swords.png]]
 ## Honed Edge
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
