@@ -4,7 +4,7 @@ tags:
   - Discipline
 ---
 # Polearms 
-![[Polearmns.png]]
+![[Polearms.png]]
 ## Measured Distance 
 **Prerequisites:** None. 
 **Cost:** 2 Trait Points. 
