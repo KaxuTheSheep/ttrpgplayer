@@ -3,8 +3,7 @@ At low investment, Fireball is a simple offensive strike. At high investment, it
 
 **School:** Elemental  
 **Base DN:** Control 8 / Manifest 12  
-**Base [[Sanity]] Cost:** 3
-
+**Speed:** 6 + Grace
 ## Base Effect
 Fireball is launched toward a target point within [[Range & Threat|range]] using standard ranged spell projectile rules.
 It travels through space as a projectile and resolves using the [[Ranged Attacks]] system.
@@ -29,12 +28,13 @@ Burn can be removed through logical physical countermeasures (smothering, immers
 ## Variables
 Each point increases Control DN and Manifest DN.
 
-| Variable                  | Base        | Per Point                                        |
-| ------------------------- | ----------- | ------------------------------------------------ |
-| [[Damage Types\|Damage]]  | 1d6 fire    | +1 die step.                                     |
-| Radius                    | 1m          | +1m                                              |
-| [[Range & Threat\|Range]] | 15m         | +5m                                              |
-| Delivery                  | Lobbed ball | 2 points unlocks an alternative delivery method. |
+| Variable                 | Base          | Per Point                                        |
+| ------------------------ | ------------- | ------------------------------------------------ |
+| [[Damage Types\|Damage]] | 1d6 fire      | +1 die step.                                     |
+| Radius                   | 1m            | +1m                                              |
+| Travel Rate              | 15m per Speed | +5m per Speed                                    |
+| Delivery                 | Lobbed ball   | 2 points unlocks an alternative delivery method. |
+| Burn                     | 2 rounds      | +1 Round                                         |
 
 ## Delivery Modes
 All Fireball forms follow projectile travel rules unless stated otherwise.
@@ -58,16 +58,6 @@ A directional wave of flame.
 - Uses projectile travel rules as a sweeping shape
 - Limited to **half normal range**
 - Intersects all valid targets in its path during travel
-
-## [[Attributes|Presence]]
-Every 2 points of Presence increases Burn duration:
-
-|Presence|Burn Duration|
-|---|---|
-|0–1|2 [[rounds]]|
-|2–3|3 [[rounds]]|
-|4–5|4 [[rounds]]|
-|6|5 [[rounds]]|
 
 ## Backlash
 When Fireball falls below Control DN, [[mana]] destabilises during travel or ignition.
