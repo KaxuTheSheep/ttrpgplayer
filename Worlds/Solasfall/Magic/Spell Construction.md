@@ -1,5 +1,3 @@
-Spells are not discovered — they are invented. A spell is a [[mana]] configuration designed to accelerate a specific natural process. The first mage to create [[Fireball]] did not find it waiting in the aether. They studied combustion, understood how fire works, and worked out how to force [[mana]] to replicate that process on demand.
-
 Spell construction is primarily a downtime activity, though it can be pursued in the [[Hollowdeep]] when circumstances allow. It is iterative, physically demanding, and occasionally dangerous.
 
 Mages can also learn pre-existing spell frameworks through institutions. Institutional learning is faster, safer, and validated — but costs money and keeps the mage within someone else's understanding of [[mana]]. Original research is slower and riskier but produces something uniquely theirs.
@@ -39,7 +37,7 @@ Consequences scale with how badly the Test was failed and the spell's complexity
 - Backlash equivalent to a combat cast of the incomplete spell.
 
 ## Institutional Learning
-Learning a pre-existing spell framework from an institution bypasses the development process entirely. The mage receives a finished framework — variables, DN values, [[Sanity]] costs.
+Learning a pre-existing spell framework from an institution bypasses the development process entirely. The mage receives a finished framework — variables, DN values.
 
 Institutional learning costs money and time, fitting within the institution's fee structure. The mage is working within someone else's understanding of [[mana]] rather than developing their own, but the risk of experimental backlash is eliminated.
 
@@ -66,11 +64,11 @@ How the spell is formed and delivered.
 
 ## Base Stats
 
-| Stat        | Value |
-| ----------- | ----- |
-| Control DN  | X     |
-| Manifest DN | X     |
-| Base [[Speed & Resolution|Speed]]  | X     |
+| Stat                               | Value |
+| ---------------------------------- | ----- |
+| Control DN                         | X     |
+| Manifest DN                        | X     |
+| Base [[Speed & Resolution\|Speed]] | X     |
 
 ## Base Effect
 What happens at minimum investment.
@@ -82,12 +80,12 @@ What happens at minimum investment.
 ## Variables
 Each variable is something the spell can be tuned during construction.
 
-| Variable         | Base | Scaling      |
-| ---------------- | ---- | ------------ |
-| [[Damage Types|Damage]]           | X    | +X per point |
-| Travel Rate      | X    | +X per point |
-| Radius / Shape   | X    | +X per point |
-| Special Variable | X    | rule-defined |
+| Variable                 | Base | Scaling      |
+| ------------------------ | ---- | ------------ |
+| [[Damage Types\|Damage]] | X    | +X per point |
+| Travel Rate              | X    | +X per point |
+| Radius / Shape           | X    | +X per point |
+| Special Variable         | X    | rule-defined |
 
 ## Delivery Options (if applicable)
 Unlocked configurations of the spell.

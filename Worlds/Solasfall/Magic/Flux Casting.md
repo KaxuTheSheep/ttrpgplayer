@@ -1,4 +1,4 @@
-11Flux Casting is the real-time shaping of [[mana]] as it flows through the caster’s [[Soul|soul]]. It is the most direct form of [[Magic|magic]] — no structure, no pre-defined containment, only controlled acceleration of natural processes as they are being formed.
+Flux Casting is the real-time shaping of [[mana]] as it flows through the caster’s [[Soul|soul]]. It is the most direct form of [[Magic|magic]] — no structure, no pre-defined containment, only controlled acceleration of natural processes as they are being formed.
 Because the spell is built at the moment of release, Flux Casting is highly flexible but inherently unstable. Even minor deviations in control can cascade into dramatically different outcomes.
 ## Core Principle
 
@@ -33,17 +33,6 @@ Spells can be modified by investing Enhancement Points into variables such as [[
 - There is no upper limit to enhancement investment, only increasing risk and difficulty.
 
 Flux Casting rewards ambition but punishes overreach.
-
-## [[Sanity]] Cost
-All Flux Casting strains the caster’s mind and [[Soul|soul]].
-
-|Outcome|Cost|
-|---|---|
-|Full Success|Base cost + 1 per enhancement point spent|
-|Partial Success|Half total cost|
-|Backlash|Double total cost|
-
-Each spell defines its own base [[Sanity]] cost.
 
 ## Backlash
 If the cast fails to meet Control DN, [[mana]] does not dissipate harmlessly.
