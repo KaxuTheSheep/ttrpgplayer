@@ -44,12 +44,12 @@ When you hit a target who is currently **Blocking**, you may forgo dealing [[Dam
 ## Merciless Opening
 **Prerequisites:** Guard Breaker.
 **Cost:** 3 Trait Points.
-Immediately after you end a Block via **Guard Breaker**, you may make one free melee [[Attacks|Attack]] against that target at no [[Actions|Action]] cost, resolving at the [[Speed & Resolution|Speed]] the Block ended.
+Immediately after you end a Block via **Guard Breaker**, you may make one free melee [[Attacks|Attack]] against that target at no [[Actions|Action]] cost, resolving at the [[Ticks, Priority & Resolution|Priority]] the Block ended.
 
 ## Full Wind-Up
 **Prerequisites:** None.
 **Cost:** 2 Trait Points.
-**Heavy [[Attacks]]** made with a mace or hammer suffer only **–1** to [[Speed & Resolution|Speed]] instead of –2.
+**Heavy [[Attacks]]** made with a mace or hammer suffer only **–1** to [[Ticks, Priority & Resolution|Priority]] instead of –2.
 
 ## Follow Through
 **Prerequisites:** Full Wind-Up.
@@ -64,7 +64,7 @@ Once per [[Rounds|Round]], you may forgo your ability to Parry or Dodge until th
 ## Juggernaut
 **Prerequisites:** Bone Breaker.
 **Cost:** 3 Trait Points.
-Heavy [[Attacks]] made with a mace or hammer no longer reduce [[Speed & Resolution|Speed]] at all.
+Heavy [[Attacks]] made with a mace or hammer no longer reduce [[Ticks, Priority & Resolution|Priority]] at all.
 
 ## Pulverising Blow
 **Prerequisites:** Guard Breaker, Bell-Ringer.

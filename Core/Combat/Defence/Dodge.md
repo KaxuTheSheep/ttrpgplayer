@@ -14,9 +14,9 @@ When triggered, you perform a Dodge ([[Movement Types|movement]], reflex, or eva
 ## Effect Window
 When activated:
 - Your **[[Evasion]] increases by ([[Attributes|Grace]] + [[Attributes|Insight]])**
-- This bonus lasts until [[Actions|actions]] of **[[Speed & Resolution|Speed]] equal to (triggering [[Attacks|attack]] [[Speed & Resolution|Speed]] − 3)** have resolved
+- This bonus lasts until [[Actions|actions]] of **[[Ticks, Priority & Resolution|Tick]] equal to (triggering [[Attacks|attack]] [[Ticks, Priority & Resolution|Tick]] − 3)** have resolved
 - While the bonus is active, any [[Attacks|attack]] you make is at Disadvantage.
-- You may make one free reposition of up to **2 squares** after the triggering [[Attacks|attack]].
+- You may make one free reposition of up to **2 meters** after the triggering [[Attacks|attack]].
 - This reposition does not provoke [[Reactions]].
 - You may freely adjust [[Facing]] as part of this [[Movement Types|movement]].
 
@@ -26,7 +26,7 @@ If you did not declare Dodge, you may instead use it as a Reaction when targeted
 - No reposition is gained
 - You may still adjust [[Facing]] as part of the reaction
 
-## Applies Against
+## Applies Againstx
 - Melee [[Attacks|attacks]]
 - Thrown weapons
 - Ranged [[Attacks|attacks]]
@@ -44,5 +44,5 @@ You cannot Dodge if:
 - Reduced to 0 [[Sanity]]
 
 ## End [[Conditions|Condition]]
-- Effect expires after the defined [[Speed & Resolution|speed]]-based duration window
+- Effect expires after the defined [[Ticks, Priority & Resolution|Priority]]-based duration window
 - Reactive Dodge ends immediately after resolving the triggering [[Attacks|attack]]

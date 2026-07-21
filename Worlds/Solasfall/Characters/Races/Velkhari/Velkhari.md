@@ -18,18 +18,19 @@ Pale, almost ghostly skin with shark-like teeth and long tongues. Pupil-less eye
 # Stats
 **Base Blood:** 8
 **[[Movement Types|Movement]]:** Deviates from standard — see below. 
-	**Walk Travel Rate:** 3.5m per [[Speed & Resolution|Speed]] 
-	**Run Travel Rate:** 9.5m per [[Speed & Resolution|Speed]]
-	 **Crawl Travel Rate:** 2.5m per [[Speed & Resolution|Speed]] 
-	**Swim Travel Rate:** 0.5m per [[Speed & Resolution|Speed]] 
-	**Jump:** 4m base distance + [[Attributes|Might]] (Height 1m base)
+	**Walk Travel Rate:** 3.5m per [[Ticks, Priority & Resolution|Tick]]
+	**Run Travel Rate:** 9.5m per [[Ticks, Priority & Resolution|Tick]]
+	 **Crawl Travel Rate:** 2.5m per [[Ticks, Priority & Resolution|Tick]]
+	**Swim Travel Rate:** 0.5m per [[Ticks, Priority & Resolution|Tick]]
+	**Jump:** 4m + [[Attributes|Might]] (Height 1m base)
 # Languages
 Common and Veilscent.
 # Traits
 ### Predator's Scent
 Your parasite-enhanced physiology grants you a heightened sense of smell. You can detect creatures within 5m by scent alone, even through walls or in total darkness. Heavily obscured or odourless creatures may reduce this [[Range & Threat|range]] at GM discretion.
 ### Predator's Bite
-As an [[Attacks|attack]], you may bite a target within melee [[Range & Threat|range]], dealing 1d4 + [[Attributes|Might]] Piercing [[Damage Types|damage]] at [[Speed & Resolution|Speed]] 12 + [[Attributes|Grace]].
+As an [[Attacks|attack]], you may bite a target within melee [[Range & Threat|range]], dealing 1d4 + [[Attributes|Might]] Piercing [[Damage Types|damage]] at 12 + [[Attributes|Grace]] [[Ticks, Priority & Resolution|Priority]] 
+
 # Racial Web
 ![[velkhari.png]]
 ## Spider Climb
@@ -42,13 +43,12 @@ Prerequisites: Spider Climb.
 Cost: 2 Trait Points. 
 Your grip extends to inverted surfaces. You can crawl on ceilings as well as walls.
 
-## [[Rift]] Step
+## Rift Step
 Prerequisites: None.
 Cost: 3 Trait Points. 
-Harnessing your connection to [[Rift]] energy, you tear open a momentary portal within line of sight. As a Half [[Actions|Action]] at [[Speed & Resolution|Speed]] 10, teleport up to 6m. Once per Short Rest.
-
-## [[Rift]] Reach
-Prerequisites: [[Rift]] Step. 
+The parasite inside of you channels and stores mana, you are able to tear open a momentary portal within line of sight. As a Half [[Actions|Action]] at [[Ticks, Priority & Resolution|Priority]] 10, teleport up to 6m. Once per Short Rest.
+## Rift Reach
+Prerequisites: Rift Step. 
 Cost: 2 Trait Points. 
 Your [[Rift]] Step [[Range & Threat|range]] increases to 9m.
 

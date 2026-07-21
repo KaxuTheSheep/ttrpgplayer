@@ -17,11 +17,11 @@ While active:
 
 ## Resolution Timing
 When Block is triggered:
-- [[Attributes|Resolve]] at the [[Speed & Resolution|Speed]] of the [[Weapon|weapon]] with additions from your shield.
+- [[Attributes|Resolve]] at the [[Ticks, Priority & Resolution|Priority]] of the [[Solasfall Weapons|weapon]] with additions from your shield.
 
 ## Block Value
 When triggered:
-- Roll [[Weapon|weapon]] [[Damage Types|damage]] die (or [[Unarmed|unarmed]] die if no [[Weapon|weapon]])
+- Roll [[Solasfall Weapons|weapon]] [[Damage Types|damage]] die (or [[Unarmed|unarmed]] die if no [[Solasfall Weapons|weapon]]])
 - If using a shield, also roll shield Block die
 - Add [[Attributes|Vitality]]
 
@@ -44,7 +44,7 @@ Block does not reduce:
 
 ## [[Movement Types|Movement]] While Blocking
 - You may move up to half your walking travel rate while maintaining Block
-- [[Facing]] may be adjusted, but only during your [[Speed & Resolution|Speed]] resolution window
+- [[Facing]] may be adjusted, but only during your [[Ticks, Priority & Resolution|Priority]] resolution window
 
 ## End [[Conditions|Condition]]
 Block ends when:
