@@ -37,7 +37,9 @@ When you **hit** a target who is currently **Blocking**, the target must make a 
 
 ### Sundering
 Built to **deform plates, sheer links, or crack rigid structures**.  
-When you deal [[Damage Types|damage]] to a target wearing [[Solasfall Armour|Armour]], Choose to Sunder before rolling [[Damage Types|damage]]. If any portion of the post-[[Block]] [[Damage Types|damage]] is applied to [[Solasfall Armour|Armour]] DR, reduce the target’s [[Solasfall Armour|Armour]] DR by 2 (until repaired), even if the [[Solasfall Armour|Armour]] reduces the final [[Damage Types|damage]] to 0 at the cost of $\frac{3}{4}$ the [[Damage Types|damage]]. If the [[Attacks|attack]] is Parried, or [[Block]] prevents any [[Damage Types|damage]] from reaching [[Solasfall Armour|Armour]] DR, Sundering does not apply.
+When you deal [[Damage Types|damage]] to a target wearing [[Solasfall Armour|Armour]], Choose to Sunder before rolling [[Damage Types|damage]]. If any portion of the post-[[Block]] [[Damage Types|damage]] is applied to [[Solasfall Armour|Armour]] DR, Sundering successfully applies to a given piece of armour, that armour immediately drops **1 [[Equipment Quality & Degradation|Quality Tier]]**. This can happen up to **3 times** against the same armour without an intervening restoration — the 4th and any subsequent successful Sunder application doesn't drop the Quality Tier.
+
+Restoring the armour's Quality Tier through Repair Gear or a Crafting Test (see [[Equipment Quality & Degradation]]) also resets this 3-hit cap, since the armour has been meaningfully rebuilt rather than just patched.
 
 ### Momentum
 Thrives on **committed, powerful swings**.  
@@ -94,7 +96,7 @@ This [[Weapon|weapon]] can be drawn or stowed as a **free [[Actions|action]]** o
 ### Cumbersome
 [[Drawing & Stowing|Drawing]] or [[Drawing & Stowing|stowing]] this [[Weapon|weapon]] requires a **full [[Actions|action]]**.
 
-### [[Weapon]] Bind
+### Weapon Bind
 A successful [[Parry]] with this [[Weapon|weapon]] can lock the opponent's [[Weapon|weapon]], transitioning into a Bind. When you successfully Parry an [[Attacks|attack]], you may choose to initiate a Bind instead of a counter-[[Attacks|attack]].
 
 **Initiating a Bind:**
@@ -156,7 +158,7 @@ The [[Weapon|weapon]] tumbles in flight, presenting multiple impact faces on arr
 
 ### Light
 - Easy to manoeuvre in tight space.
-- Can be used while **[[Dodge]]** is active without penalty.
+- Can be used while **[[Dodge]]** is active without the disadvantage penalty.
 - Can be **dual-wielded**.
 
 ### Thrown
