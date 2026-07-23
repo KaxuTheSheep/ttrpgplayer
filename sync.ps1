@@ -30,4 +30,6 @@ Copy-Item -Recurse `
 Worlds\Space\
 
 
-
+git add .
+git commit -m "SCREW YOUR COMMIT"
+git push
