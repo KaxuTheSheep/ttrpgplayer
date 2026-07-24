@@ -31,5 +31,5 @@ Worlds\Space\
 
 
 git add .
-git commit -m "SCREW YOUR COMMIT"
+git commit -m "SCREW YOUR COMMIT o(〃＾▽＾〃)o"
 git push
