@@ -4,9 +4,9 @@ Remove-Item -Recurse -Force Worlds -ErrorAction SilentlyContinue
 Remove-Item -Recurse -Force Assets -ErrorAction SilentlyContinue
 
 New-Item -ItemType Directory -Force Core | Out-Null
-New-Item -ItemType Directory -Force Worlds\Cyberpunk | Out-Null
+#New-Item -ItemType Directory -Force Worlds\Cyberpunk | Out-Null
 New-Item -ItemType Directory -Force Worlds\Solasfall | Out-Null
-New-Item -ItemType Directory -Force Worlds\Space | Out-Null
+#New-Item -ItemType Directory -Force Worlds\Space | Out-Null
 New-Item -ItemType Directory -Force Assets | Out-Null
 
 Copy-Item -Recurse `
