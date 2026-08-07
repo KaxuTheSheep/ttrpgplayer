@@ -2,10 +2,12 @@
 Remove-Item -Recurse -Force Core -ErrorAction SilentlyContinue
 Remove-Item -Recurse -Force Worlds -ErrorAction SilentlyContinue
 Remove-Item -Recurse -Force Assets -ErrorAction SilentlyContinue
+Remove-Item -Recurse -Force Optional -ErrorAction SilentlyContinue
 
 # --- Create base directories ---
 New-Item -ItemType Directory -Force Core | Out-Null
 New-Item -ItemType Directory -Force Assets | Out-Null
+New-Item -ItemType Directory -Force Optional | Out-Null
 
 # --- Define source root ---
 $sourceRoot = "C:\Users\KaxuTheSheep\Documents\Obsidian\obsidian_ttrpg"
