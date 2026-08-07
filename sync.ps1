@@ -13,6 +13,7 @@ $sourceRoot = "C:\Users\KaxuTheSheep\Documents\Obsidian\obsidian_ttrpg"
 # --- Copy Core and Assets ---
 Copy-Item -Recurse "$sourceRoot\Core\*" Core\
 Copy-Item -Recurse "$sourceRoot\Assets\*" Assets\
+Copy-Item -Recurse "$sourceRoot\Optional\*" Optional\
 
 # --- Copy all world Player folders dynamically ---
 $worldsSource = Join-Path $sourceRoot "Worlds"
