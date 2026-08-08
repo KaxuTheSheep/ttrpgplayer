@@ -23,7 +23,7 @@ Light, short blade for grappling, control, and inside-guard work.
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** [[Close-Quarters]] Proficiency, Concealable, Silent, Nimble
+**Traits:** [[Weapon Traits#Close-Quarters Proficiency|Close-Quarters Proficiency]], [[Weapon Traits#Concealable|Concealable]], [[Weapon Traits#Silent|Silent]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Stiletto
 Thin thrusting blade specialised for targeting gaps and weak points.
@@ -33,7 +33,7 @@ Thin thrusting blade specialised for targeting gaps and weak points.
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Penetrating, Concealable, Silent, Nimble
+**Traits:** [[Weapon Traits#Penetrating|Penetrating(1)]], [[Weapon Traits#Concealable|Concealable]], [[Weapon Traits#Silent|Silent]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Parrying Dagger
 Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds, and riposte.
@@ -43,7 +43,7 @@ Short blade optimised for [[Off-Hand & Dual-Wielding|off-hand]] defence, binds, 
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Guarded(+2), [[Close-Quarters]] Proficiency, Nimble
+**Traits:** [[Weapon Traits#Guarded|Guarded(+2)]], [[Weapon Traits#Close-Quarters Proficiency|Close-Quarters Proficiency]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Dirk
 Thicker traditional dagger for utility and combat.
@@ -53,7 +53,7 @@ Thicker traditional dagger for utility and combat.
 **[[Range & Threat|Range]]:** +0.40m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Reliable, [[Close-Quarters]] Proficiency, Nimble
+**Traits:** [[Weapon Traits#Reliable|Reliable]], [[Weapon Traits#Close-Quarters Proficiency|Close-Quarters Proficiency]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Kukri
 Forward-curved blade that trades reach for chopping power.
@@ -63,7 +63,7 @@ Forward-curved blade that trades reach for chopping power.
 **[[Range & Threat|Range]]:** +0.35m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Momentum, [[Close-Quarters]] Proficiency, Nimble
+**Traits:** [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Close-Quarters Proficiency|Close-Quarters Proficiency]], [[Weapon Traits#Nimble|Nimble]]
 
 ## Swords
 Blades combining cutting and thrusting potential with balanced handling and flexible footwork. Swords are defined by adaptability and defensive utility.
@@ -75,7 +75,7 @@ Compact one-handed blade sitting between dagger [[Ticks, Priority & Resolution|P
 **[[Range & Threat|Range]]:** +0.55m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Reliable, [[Close-Quarters]] Proficiency, Nimble
+**Traits:** [[Weapon Traits#Reliable|Reliable]], [[Weapon Traits#Close-Quarters Proficiency|Close-Quarters Proficiency]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Longsword
 The dependable standard of the sword family. Versatile enough for one or two hands, reliable in most situations.
@@ -85,7 +85,7 @@ The dependable standard of the sword family. Versatile enough for one or two han
 **[[Range & Threat|Range]]:** +0.70m
 **Handedness:** Versatile
 **Weight Class:** Standard
-**Traits:** Reliable
+**Traits:** [[Weapon Traits#Reliable|Reliable]]
 
 ### Rapier
 Slender thrusting blade optimised for precision, [[Ticks, Priority & Resolution|Priority]], and deflection. Rewards technical fighters who favour finesse over force.
@@ -95,7 +95,7 @@ Slender thrusting blade optimised for precision, [[Ticks, Priority & Resolution|
 **[[Range & Threat|Range]]:** +0.65m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Guarded(+1), Penetrating, Nimble
+**Traits:** [[Weapon Traits#Guarded|Guarded(+1)]], [[Weapon Traits#Penetrating|Penetrating(2)]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Estoc
 Heavy stiff-bladed thrusting sword built to defeat armour. Slower than the Rapier but punishing against protected targets.
@@ -105,7 +105,7 @@ Heavy stiff-bladed thrusting sword built to defeat armour. Slower than the Rapie
 **[[Range & Threat|Range]]:** +0.70m
 **Handedness:** Versatile
 **Weight Class:** Standard
-**Traits:** Penetrating, Sundering
+**Traits:** [[Weapon Traits#Penetrating|Penetrating(3)]], [[Weapon Traits#Sundering|Sundering]]
 
 ### Schiavona
 Basket-hilted sword with exceptional hand protection. Favoured by fighters who want reliable offence and a strong defensive foundation.
@@ -115,7 +115,7 @@ Basket-hilted sword with exceptional hand protection. Favoured by fighters who w
 **[[Range & Threat|Range]]:** +0.65m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Guarded(+3), Reliable
+**Traits:** [[Weapon Traits#Guarded|Guarded(+3)]], [[Weapon Traits#Reliable|Reliable]]
 
 ### Falchion
 Single-edged forward-weighted blade built for powerful committed cuts. Punishing on the offence, weak on the defence.
@@ -125,7 +125,7 @@ Single-edged forward-weighted blade built for powerful committed cuts. Punishing
 **[[Range & Threat|Range]]:** +0.60m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Momentum, Unbalanced
+**Traits:** [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
 
 ### Greatsword
 Massive two-handed blade at the ceiling of sword [[Damage Types|damage]]. Slow but devastating, rewarding aggressive committed fighters.
@@ -135,199 +135,209 @@ Massive two-handed blade at the ceiling of sword [[Damage Types|damage]]. Slow b
 **[[Range & Threat|Range]]:** +0.90m
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** Momentum, Cumbersome, Intimidating
+**Traits:** [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
 
 ## Axes
 Weapons built around committed, chopping force. Axes trade defensive versatility for raw impact, rewarding aggressive pressure and punishing hesitation. Defined by momentum, weight, and the ability to overwhelm rather than outmanoeuvre.
 ### Hand Axe
-One-handed chopper, reliable and versatile enough to go two-handed for extra power. 
-**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]] / 1d8 + [[Attributes|Might]] two-handed 
-**[[Damage Types|Damage]] Type:** Cutting 
+One-handed chopper, reliable and versatile enough to go two-handed for extra power.
+**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]] / 1d8 + [[Attributes|Might]] two-handed
+**[[Damage Types|Damage]] Type:** Cutting
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + [[Attributes|Might]]
-**[[Range & Threat|Range]]:** +0.55m 
-**Handedness:** Versatile 
-**Weight Class:** Standard 
-**Traits:** Reliable
+**[[Range & Threat|Range]]:** +0.55m
+**Handedness:** Versatile
+**Weight Class:** Standard
+**Traits:** [[Weapon Traits#Reliable|Reliable]]
 
 ### Bearded Axe
 An extended lower blade designed to hook weapons and shields, pulling guards apart.
-**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Cutting 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]] **
-[[Range & Threat|Range]]:** +0.60m **
-Handedness:** One-Handed 
-**Weight Class:** Standard 
-**Traits:** Hooking, Sundering, Unbalanced
+**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Cutting
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.60m
+**Handedness:** One-Handed
+**Weight Class:** Standard
+**Traits:** [[Weapon Traits#Hooking|Hooking(10)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
 
 ### Dane Axe
-Long-hafted axe that threatens space like a polearm while hitting like an axe. 
-**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Cutting **
-[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +1.10m 
-**Handedness:** Two-Handed 
-**Weight Class:** Heavy 
-**Traits:** Reach, Momentum, Sundering
+Long-hafted axe that threatens space like a polearm while hitting like an axe.
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Cutting
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +1.10m
+**Handedness:** Two-Handed
+**Weight Class:** Heavy
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Sundering|Sundering]]
 
 ### Greataxe
-Maximum commitment, maximum [[Damage Types|damage]]. No defensive pretension whatsoever. **[[Damage Types|Damage]] Die:** 1d14 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Cutting 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 6 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +0.80m 
-**Handedness:** Two-Handed 
+Maximum commitment, maximum [[Damage Types|damage]]. No defensive pretension whatsoever.
+**[[Damage Types|Damage]] Die:** 1d14 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Cutting
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 6 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.80m
+**Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** Momentum, Unbalanced, Cumbersome, Intimidating, Sundering
+**Traits:** [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]], [[Weapon Traits#Sundering|Sundering]]
+
 ## Maces & Hammers
 Weapons designed to transfer force rather than cut through it. Where blades seek gaps and edges, maces and hammers render armour irrelevant through sheer impact — caving plate, shattering bone, and stunning through guard. Defined by reliability against protected targets and punishing weight on every swing.
 
 ### Club
 The primitive baseline. Simple, heavy, and brutally effective for what it is.
 **[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Might]]
-**[[Damage Types|Damage]] Type:** Blunt 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +0.50m 
-**Handedness:** One-Handed 
+**[[Damage Types|Damage]] Type:** Blunt
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.50m
+**Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Crushing, Reliable
+**Traits:** [[Weapon Traits#Crushing|Crushing(d6)]], [[Weapon Traits#Reliable|Reliable]]
 
 ### Mace
-The workhorse of the category. Purpose built to punish armoured targets through committed strikes. 
+The workhorse of the category. Purpose built to punish armoured targets through committed strikes.
 **[[Damage Types|Damage]] Die:** 2d4 + [[Attributes|Might]]
-**[[Damage Types|Damage]] Type:** Blunt 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]] **[[Range & Threat|Range]]:** +0.55m 
+**[[Damage Types|Damage]] Type:** Blunt
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.55m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Crushing, Sundering, Unbalanced
+**Traits:** [[Weapon Traits#Crushing|Crushing(2d4)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
 
 ### Morningstar
-A spiked mace head that threatens armoured and unarmoured targets alike through simultaneous blunt and piercing force. 
+A spiked mace head that threatens armoured and unarmoured targets alike through simultaneous blunt and piercing force.
 **[[Damage Types|Damage]] Die:** 2d3 + [[Attributes|Might]]
-**[[Damage Types|Damage]] Type:** Blunt and Piercing 
+**[[Damage Types|Damage]] Type:** Blunt and Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
-**[[Range & Threat|Range]]:** +0.55m 
+**[[Range & Threat|Range]]:** +0.55m
 **Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Crushing, Sundering, Unbalanced
+**Traits:** [[Weapon Traits#Crushing|Crushing(1d10)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-1)]]
 
 ### War Hammer
 Purpose built armour cracker, versatile enough to go two-handed for devastating committed strikes.
 **[[Damage Types|Damage]] Die:** 2d4 + [[Attributes|Might]] / 2d6 + [[Attributes|Might]] two-handed
-**[[Damage Types|Damage]] Type:** Blunt 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +0.65m **
-Handedness:** Versatile **
-Weight Class:** Heavy 
-**Traits:** Crushing, Sundering, Unbalanced, Momentum
+**[[Damage Types|Damage]] Type:** Blunt
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.65m
+**Handedness:** Versatile
+**Weight Class:** Heavy
+**Traits:** [[Weapon Traits#Crushing|Crushing(2d6)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-3)]], [[Weapon Traits#Momentum|Momentum]]
 
 ### Maul
-Two-handed, maximum impact. Reliable devastation through sheer committed mass. 
-**[[Damage Types|Damage]] Die:** 2d6 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Blunt 
+Two-handed, maximum impact. Reliable devastation through sheer committed mass.
+**[[Damage Types|Damage]] Die:** 2d6 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Blunt
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 6 + [[Attributes|Might]]
 **[[Range & Threat|Range]]:** +0.75m
-**Handedness:** Two-Handed 
-**Weight Class:** Heavy 
-**Traits:** Crushing, Sundering, Unbalanced, Momentum, Cumbersome, Intimidating
+**Handedness:** Two-Handed
+**Weight Class:** Heavy
+**Traits:** [[Weapon Traits#Crushing|Crushing(1d10)]], [[Weapon Traits#Sundering|Sundering]], [[Weapon Traits#Unbalanced|Unbalanced(-2)]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
+
 ## Polearms
 Weapons built around reach, leverage, and controlling space. Polearms threaten enemies before they can close distance, punishing approach and rewarding positioning. All polearms have the Reach trait. The category ranges from the accessible spear to the oppressive pike and the devastating glaive — each demanding a different relationship with distance and commitment.
 ### Spear
-The accessible entry to polearms. Versatile enough for one or two hands, reliable enough to learn on. 
-**[[Damage Types|Damage]] Die:** 1d6 + ([[Attributes|Might]] or [[Attributes|Grace]]) / 1d8 + ([[Attributes|Might]] or [[Attributes|Grace]]) two-handed 
+The accessible entry to polearms. Versatile enough for one or two hands, reliable enough to learn on.
+**[[Damage Types|Damage]] Die:** 1d6 + ([[Attributes|Might]] or [[Attributes|Grace]]) / 1d8 + ([[Attributes|Might]] or [[Attributes|Grace]]) two-handed
 **[[Damage Types|Damage]] Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + ([[Attributes|Might]] or [[Attributes|Grace]])
 **[[Range & Threat|Range]]:** +1.50m
 **Handedness:** Versatile
 **Weight Class:** Standard
-**Traits:** Reach, Reliable
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Reliable|Reliable]]
 
 ### Pike
-A [[Weapon|weapon]] built entirely around denying approach. Longer than anything else on the field — devastating at [[Range & Threat|range]], defenceless up close. 
-**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Piercing 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +2.00m 
+A [[Weapon|weapon]] built entirely around denying approach. Longer than anything else on the field — devastating at [[Range & Threat|range]], defenceless up close.
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Piercing
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +2.00m
 **Handedness:** Two-Handed
-**Weight Class:** Heavy 
-**Traits:** Reach, Cumbersome
+**Weight Class:** Heavy
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Cumbersome|Cumbersome]]
 
 ### Bill
-A hooked polearm that rewards patience and control. Where other polearms strike, the bill traps — turning defence into dominance. 
-**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Cutting 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +1.40m 
-**Handedness:** Two-Handed 
-**Weight Class:** Standard **Traits:** Reach, Hooking, Guarded(+2), [[Weapon]] Bind
+A hooked polearm that rewards patience and control. Where other polearms strike, the bill traps — turning defence into dominance.
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Cutting
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +1.40m
+**Handedness:** Two-Handed
+**Weight Class:** Standard
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Hooking|Hooking(13)]], [[Weapon Traits#Guarded|Guarded(+2)]], [[Weapon Traits#Weapon Bind|Weapon Bind]]
 
 ### Halberd
-A heavy hybrid that combines axe, hook, and reach into a single punishing [[Weapon|weapon]]. Offensively dominant, defensively minimal. 
+A heavy hybrid that combines axe, hook, and reach into a single punishing [[Weapon|weapon]]. Offensively dominant, defensively minimal.
 **[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Might]]
-**[[Damage Types|Damage]] Type:** Cutting 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +1.60m 
-**Handedness:** Two-Handed 
-**Weight Class:** Heavy 
-**Traits:** Reach, Hooking, Momentum, Sundering
+**[[Damage Types|Damage]] Type:** Cutting
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +1.60m
+**Handedness:** Two-Handed
+**Weight Class:** Heavy
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Hooking|Hooking(12)]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Sundering|Sundering]]
 
 ### Glaive
-A long blade on a longer haft. Pure cutting reach at the [[Damage Types|damage]] ceiling — no defensive pretension, no subtlety. 
+A long blade on a longer haft. Pure cutting reach at the [[Damage Types|damage]] ceiling — no defensive pretension, no subtlety.
 **[[Damage Types|Damage]] Die:** 2d6 + [[Attributes|Might]]
 **[[Damage Types|Damage]] Type:** Cutting
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 6 + [[Attributes|Might]]
 **[[Range & Threat|Range]]:** +1.70m
-**Handedness:** Two-Handed 
+**Handedness:** Two-Handed
 **Weight Class:** Heavy
-**Traits:** Reach, Momentum, Unbalanced, Cumbersome, Intimidating
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Momentum|Momentum]], [[Weapon Traits#Unbalanced|Unbalanced(-2)]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
+
 ## Flails & Chains
 Weapons built around articulated striking heads — ball, blade, or weight connected to haft or handle by chain or rope. Where maces transfer force through rigid structure, flails and chains exploit momentum and unpredictable arcing movement to defeat guard entirely. A skilled defender can read a sword or axe; a flail gives them nothing to read. The category rewards aggression and punishes hesitation, but the same articulation that confounds enemies makes precise defensive use nearly impossible.
 
 #### Flail
-A weighted ball on a short chain, built to confound guard and crack armour through sheer unpredictable momentum. 
-**[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Blunt 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +0.60m 
-**Handedness:** One-Handed 
-**Weight Class:** Standard 
-**Traits:** Unpredictable(+3), Volatile, Crushing, Unbalanced
+A weighted ball on a short chain, built to confound guard and crack armour through sheer unpredictable momentum.
+**[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Blunt
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.60m
+**Handedness:** One-Handed
+**Weight Class:** Standard
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+3)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Crushing|Crushing(1d6)]], [[Weapon Traits#Unbalanced|Unbalanced(-4)]]
 
 #### Tetsu Chigaki
 A heavy iron-studded club with a chained ball attached, offering two distinct strike modes in a single [[Weapon|weapon]]. Fighters can flow freely between the rigid club end and the flailing chain end within the same [[Rounds|round]].
 
-**Club End** **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
-**[[Damage Types|Damage]] Type:** Blunt 
+**Club End**
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Blunt
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Might]]
-**[[Range & Threat|Range]]:** +0.55m 
+**[[Range & Threat|Range]]:** +0.55m
 **Weight Class:** Standard
-**Traits:** Crushing, Reliable
+**Traits:** [[Weapon Traits#Crushing|Crushing(1d4)]], [[Weapon Traits#Reliable|Reliable]]
 
-**Flail End** **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:** Blunt 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]] 
-**[[Range & Threat|Range]]:** +0.90m **Weight Class:** Standard 
-**Traits:** Unpredictable(+2), Volatile, Crushing
+**Flail End**
+**[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Blunt
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
+**[[Range & Threat|Range]]:** +0.90m
+**Weight Class:** Standard
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+2)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Crushing|Crushing(1d6)]]
 
-**Handedness:** Two-Handed Switching between ends is a free [[Actions|action]] declared at any point during the Declaration Phase. Both ends share the same [[Attacks|attack]] [[Actions|action]] — a fighter may strike with the club end and follow with the flail end within the same [[Rounds|round]] using normal [[Actions|action]] economy.
+**Handedness:** Two-Handed. Switching between ends is a free [[Actions|action]] declared at any point during the Declaration Phase. Both ends share the same [[Attacks|attack]] [[Actions|action]] — a fighter may strike with the club end and follow with the flail end within the same [[Rounds|round]] using normal [[Actions|action]] economy.
 
 #### Kusarigama
-A curved sickle blade with a weighted chain attached, combining close [[Range & Threat|range]] cutting with reach, hooking, and [[Weapon|weapon]] control. Without the chain the [[Weapon|weapon]] handles like a light blade. With it, the fighter gains [[Range & Threat|range]] and the ability to trap and bind. 
+A curved sickle blade with a weighted chain attached, combining close [[Range & Threat|range]] cutting with reach, hooking, and [[Weapon|weapon]] control. Without the chain the [[Weapon|weapon]] handles like a light blade. With it, the fighter gains [[Range & Threat|range]] and the ability to trap and bind.
 **[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Cutting
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + [[Attributes|Grace]]
 **[[Range & Threat|Range]]:** +0.40m / +1.00m with chain
-**Handedness:** One-Handed 
-**Weight Class:** Light 
-**Traits:** Unpredictable(+1), Hooking, [[Weapon]] Bind, Reach (chain only), Nimble
+**Handedness:** One-Handed
+**Weight Class:** Light
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+1)]], [[Weapon Traits#Hooking|Hooking(8)]], [[Weapon Traits#Weapon Bind|Weapon Bind]], [[Weapon Traits#Reach|Reach]] (chain only), [[Weapon Traits#Nimble|Nimble]]
 
 #### Meteor Hammer
-Two weighted iron balls connected by a long chain, used for sweeping strikes, wrapping, and binding at extreme [[Range & Threat|range]]. The [[Weapon|weapon]] threatens space like a polearm but with none of a polearm's structural rigidity — every strike is a commitment. 
+Two weighted iron balls connected by a long chain, used for sweeping strikes, wrapping, and binding at extreme [[Range & Threat|range]]. The [[Weapon|weapon]] threatens space like a polearm but with none of a polearm's structural rigidity — every strike is a commitment.
 **[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Might]]
-**[[Damage Types|Damage]] Type:** Blunt 
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]] 
+**[[Damage Types|Damage]] Type:** Blunt
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 7 + [[Attributes|Might]]
 **[[Range & Threat|Range]]:** +1.80m
-**Handedness:** Two-Handed 
-**Weight Class:** Heavy 
-**Traits:** Unpredictable(+1), Volatile, [[Weapon]] Bind, Reach, Cumbersome
+**Handedness:** Two-Handed
+**Weight Class:** Heavy
+**Traits:** [[Weapon Traits#Unpredictable|Unpredictable(+1)]], [[Weapon Traits#Volatile|Volatile]], [[Weapon Traits#Weapon Bind|Weapon Bind]], [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Cumbersome|Cumbersome]]
+
 ## Throwing Weapons
 Balanced weapons designed to be hurled at [[Range & Threat|range]] before closing or disengaging. Lighter and faster than bows but with significantly shorter effective [[Range & Threat|range]] and limited ammunition — each [[Weapon|weapon]] in your possession represents one available throw. Most can serve as melee fallbacks, though rarely optimised for it.
 All throwing weapons [[Attributes|resolve]] in a single [[Ticks, Priority & Resolution|Priority]] instance. See [[Ranged Attacks]] for hit resolution, cover, and facing rules.
@@ -335,13 +345,13 @@ All throwing weapons [[Attributes|resolve]] in a single [[Ticks, Priority & Reso
 ### Throwing Knife
 Balanced for ranged use as well as melee. Light enough to carry several and fast enough to throw in quick succession.
 **[[Damage Types|Damage]] Die:** 1d4 + ([[Attributes|Might]] or [[Attributes|Grace]])
-**[[Damage Types|Damage]] Type:** Cutting or Piercing 
+**[[Damage Types|Damage]] Type:** Cutting or Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 12 + ([[Attributes|Might]] or [[Attributes|Grace]])
-**Thrown [[Range & Threat|Range]]:** 10m 
-**Minimum [[Range & Threat|Range]]:** 1m 
-**Handedness:** One-Handed 
+**Thrown [[Range & Threat|Range]]:** 10m
+**Minimum [[Range & Threat|Range]]:** 1m
+**Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Thrown, [[Close-Quarters]] Proficiency, Nimble, Concealable
+**Traits:** [[Weapon Construction#Thrown|Thrown]], [[Weapon Traits#Close-Quarters Proficiency|Close-Quarters Proficiency]], [[Weapon Traits#Nimble|Nimble]], [[Weapon Traits#Concealable|Concealable]]
 
 ### Francisca
 A multi-pointed throwing axe with blade, back spike, and hand spike arranged so any face can embed on impact. Tumbles in flight, making it difficult to predict and deflect.
@@ -349,87 +359,87 @@ A multi-pointed throwing axe with blade, back spike, and hand spike arranged so 
 **[[Damage Types|Damage]] Type:** Cutting or Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 10 + [[Attributes|Might]]
 **Thrown [[Range & Threat|Range]]:** 12m
-**Minimum [[Range & Threat|Range]]:** 2m 
-**Handedness:** One-Handed 
+**Minimum [[Range & Threat|Range]]:** 2m
+**Handedness:** One-Handed
 **Weight Class:** Standard
-**Traits:** Thrown, Tumbling(+4), Nimble
+**Traits:** [[Weapon Construction#Thrown|Thrown]], [[Weapon Traits#Tumbling|Tumbling(+4)]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Javelin
 A light throwing spear with enough length to serve as a melee fallback. Outranges every other throwing [[Weapon|weapon]] significantly and carries enough force to be threatening at distance.
 **[[Damage Types|Damage]] Die:** 1d6 + ([[Attributes|Might]] or [[Attributes|Grace]])
 **[[Damage Types|Damage]] Type:** Piercing
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + ([[Attributes|Might]] or [[Attributes|Grace]]) 
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + ([[Attributes|Might]] or [[Attributes|Grace]])
 **Thrown [[Range & Threat|Range]]:** 20m
 **Minimum [[Range & Threat|Range]]:** 2m
 **Handedness:** One-Handed
 **Weight Class:** Light
-**Traits:** Thrown, Reach, Nimble
+**Traits:** [[Weapon Construction#Thrown|Thrown]], [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Throwing Axe
 A small, purpose-built throwing axe with a lighter head than its melee counterpart. Designed to be carried in multiples and thrown in quick succession rather than used in close quarters.
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Might]]
 **[[Damage Types|Damage]] Type:** Cutting
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + [[Attributes|Might]]
-**Thrown [[Range & Threat|Range]]:** 15m 
+**Thrown [[Range & Threat|Range]]:** 15m
 **Minimum [[Range & Threat|Range]]:** 2m
 **Handedness:** One-Handed
-**Weight Class:** Light 
-**Traits:** Thrown, Nimble
+**Weight Class:** Light
+**Traits:** [[Weapon Construction#Thrown|Thrown]], [[Weapon Traits#Nimble|Nimble]]
 
 ## Bows
 Ranged weapons that fire arrows at distance, trading melee capability for reach and precision. Bows require two hands to use and cannot be fired effectively in close quarters. Projectiles are handled by [[Ranged Attacks]] rules.
 ### Shortbow
 A light, flexible bow suited for quick draws and mobile combat. Effective at medium [[Range & Threat|range]], favoured by scouts and hunters.
-**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]] 
+**[[Damage Types|Damage]] Die:** 1d6 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Piercing
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 13 + [[Attributes|Grace]] 
-**Arrow Travel:** 15m per [[Ticks, Priority & Resolution|Tick]] 
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 13 + [[Attributes|Grace]]
+**Arrow Travel:** 15m per [[Ticks, Priority & Resolution|Tick]]
 **Optimal [[Range & Threat|Range]]:** 50m
 **Minimum [[Range & Threat|Range]]:** 3m
 **Handedness:** Two-Handed
 **Weight Class:** Light
 **Ammunition:** Standard Arrows
-**Traits:** Ranged, Draw, Nimble, Silent
+**Traits:** [[Weapon Construction#Ranged|Ranged]], [[Weapon Traits#Draw|Draw]], [[Weapon Traits#Nimble|Nimble]], [[Weapon Traits#Silent|Silent]]
 
 ### Recurve
 A shorter bow with recurved limbs that store and release energy efficiently. Trades peak [[Range & Threat|range]] for better performance at mid-[[Range & Threat|range]] distances and remains manoeuvrable enough for mobile fighters.
 **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Grace]]
-**[[Damage Types|Damage]] Type:** Piercing 
+**[[Damage Types|Damage]] Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 12 + [[Attributes|Grace]]
-**Arrow Travel:** 18m per [[Ticks, Priority & Resolution|Tick]] 
-**Optimal [[Range & Threat|Range]]:** 45m 
-**Minimum [[Range & Threat|Range]]:** 3m 
-**Handedness:** Two-Handed 
-**Weight Class:** Light 
+**Arrow Travel:** 18m per [[Ticks, Priority & Resolution|Tick]]
+**Optimal [[Range & Threat|Range]]:** 45m
+**Minimum [[Range & Threat|Range]]:** 3m
+**Handedness:** Two-Handed
+**Weight Class:** Light
 **Ammunition:** Standard Arrows
-**Traits:** Ranged, Draw, Nimble, Silent
+**Traits:** [[Weapon Construction#Ranged|Ranged]], [[Weapon Traits#Draw|Draw]], [[Weapon Traits#Nimble|Nimble]], [[Weapon Traits#Silent|Silent]]
 
 ### Longbow
 A tall, powerful bow demanding technique and training. Significantly outranges the shortbow and hits harder, but slower to draw and unwieldy at close distance.
-**[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Grace]] 
+**[[Damage Types|Damage]] Die:** 1d10 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Piercing
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 10 + [[Attributes|Grace]] 
-**Arrow Travel:** 22m per [[Ticks, Priority & Resolution|Tick]] 
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 10 + [[Attributes|Grace]]
+**Arrow Travel:** 22m per [[Ticks, Priority & Resolution|Tick]]
 **Optimal [[Range & Threat|Range]]:** 80m
 **Minimum [[Range & Threat|Range]]:** 5m
-**Handedness:** Two-Handed 
+**Handedness:** Two-Handed
 **Weight Class:** Standard
-**Ammunition:** Standard Arrows 
-**Traits:** Ranged, Draw, Silent
+**Ammunition:** Standard Arrows
+**Traits:** [[Weapon Construction#Ranged|Ranged]], [[Weapon Traits#Draw|Draw]], [[Weapon Traits#Silent|Silent]]
 
 ### Warbow
 An extreme draw-weight bow built for devastating power at long [[Range & Threat|range]]. Requires exceptional physical strength to use and is genuinely dangerous to the wielder if anything closes distance. Punches through multiple targets.
-**[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Might]] 
-**[[Damage Types|Damage]] Type:**Piercing
+**[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Might]]
+**[[Damage Types|Damage]] Type:** Piercing
 **[[Ticks, Priority & Resolution|Priority]] (Base):** 8 + [[Attributes|Grace]]
-**Arrow Travel:** 28m per [[Ticks, Priority & Resolution|Tick]] 
+**Arrow Travel:** 28m per [[Ticks, Priority & Resolution|Tick]]
 **Optimal [[Range & Threat|Range]]:** 120m
-**Minimum [[Range & Threat|Range]]:** 8m **
-Handedness:** Two-Handed 
-**Weight Class:** Heavy 
-**[[Attributes|Might]] Requirement:** 4 
+**Minimum [[Range & Threat|Range]]:** 8m
+**Handedness:** Two-Handed
+**Weight Class:** Heavy
+**[[Attributes|Might]] Requirement:** 4
 **Ammunition:** Heavy Arrows
-**Traits:** Ranged, Draw, Heavy Draw, Collateral(2), Cumbersome, Intimidating
+**Traits:** [[Weapon Construction#Ranged|Ranged]], [[Weapon Traits#Draw|Draw(Heavy Draw)]], [[Weapon Traits#Collateral|Collateral(2)]], [[Weapon Traits#Cumbersome|Cumbersome]], [[Weapon Traits#Intimidating|Intimidating]]
 
 ## Crossbows
 Mechanical ranged weapons that use a cocking mechanism to hold the draw, allowing the wielder to aim without physical effort. Slower to reload than bows but require less technique to fire accurately. Projectiles are handled by [[Ranged Attacks]] rules.
@@ -438,34 +448,34 @@ A compact, one-handed crossbow suited for confined spaces and quick deployment. 
 
 **[[Damage Types|Damage]] Die:** 1d8 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Piercing
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + [[Attributes|Grace]] 
-**Bolt Travel:** 20m per [[Ticks, Priority & Resolution|Tick]] 
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 11 + [[Attributes|Grace]]
+**Bolt Travel:** 20m per [[Ticks, Priority & Resolution|Tick]]
 **Optimal [[Range & Threat|Range]]:** 60m
 **Minimum [[Range & Threat|Range]]:** 1m
-**Handedness:** One-Handed 
+**Handedness:** One-Handed
 **Weight Class:** Light
-**Ammunition:** Standard Bolts 
-**Traits:** Ranged, Loading Mechanism, Crossbow Loading, Nimble
+**Ammunition:** Standard Bolts
+**Traits:** [[Weapon Construction#Ranged|Ranged]], [[Weapon Traits#Loading Mechanism|Loading Mechanism(Crossbow Loading)]], [[Weapon Traits#Nimble|Nimble]]
 
 ### Heavy Crossbow
 A large, powerful crossbow with a mechanical cocking mechanism. Slower to reload and unwieldy but punishing at [[Range & Threat|range]], capable of punching through multiple targets.
-**[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Grace]] 
-**[[Damage Types|Damage]]Type:** Piercing
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + [[Attributes|Grace]] 
-**Bolt Travel:** 25m per [[Ticks, Priority & Resolution|Tick]] 
-**Optimal [[Range & Threat|Range]]:** 90m 
-**Minimum [[Range & Threat|Range]]:** 1m 
+**[[Damage Types|Damage]] Die:** 1d12 + [[Attributes|Grace]]
+**[[Damage Types|Damage]] Type:** Piercing
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 9 + [[Attributes|Grace]]
+**Bolt Travel:** 25m per [[Ticks, Priority & Resolution|Tick]]
+**Optimal [[Range & Threat|Range]]:** 90m
+**Minimum [[Range & Threat|Range]]:** 1m
 **Handedness:** Two-Handed
 **Weight Class:** Heavy
 **Ammunition:** Heavy Bolts
-**Traits:** Ranged, Loading Mechanism, Crossbow Loading, Collateral(3), Cumbersome
+**Traits:** [[Weapon Construction#Ranged|Ranged]], [[Weapon Traits#Loading Mechanism|Loading Mechanism(Crossbow Loading)]], [[Weapon Traits#Collateral|Collateral(3)]], [[Weapon Traits#Cumbersome|Cumbersome]]
 
-## Unique 
+## Unique
 ### Whip
 **[[Damage Types|Damage]] Die:** 1d4 + [[Attributes|Grace]]
 **[[Damage Types|Damage]] Type:** Cutting
-**[[Ticks, Priority & Resolution|Priority]] (Base):** 12 + [[Attributes|Grace]] 
+**[[Ticks, Priority & Resolution|Priority]] (Base):** 12 + [[Attributes|Grace]]
 **[[Range & Threat|Range]]:** +1.50m
 **Handedness:** One-Handed
-**Weight Class:** Light 
-**Traits:** Reach, Nimble, Unpredictable(+2), [[Weapon]] Bind
+**Weight Class:** Light
+**Traits:** [[Weapon Traits#Reach|Reach]], [[Weapon Traits#Nimble|Nimble]], [[Weapon Traits#Unpredictable|Unpredictable(+2)]], [[Weapon Traits#Weapon Bind|Weapon Bind]]
